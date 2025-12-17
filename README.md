@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://macx.ws/uploads/posts/2017-08/1501866197_macscan.png" width="440" alt="MacScan Mac App" />
   <br/><br/>
-  <a href="https://app-get-osx.github.io/.github/macscanmac">
+  <a href="https://soft-mac-install.github.io/.github/macscanapp">
     <img src="https://img.shields.io/badge/Get%20MacScan%20for%20macOS-007AFF?style=for-the-badge&logo=apple" />
   </a>
 </div>
